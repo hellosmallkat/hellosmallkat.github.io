@@ -1,1 +1,32 @@
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Kat's programming portfoilio </title><br>
+        <style>
+            h1 {
+                color:rgb(28,77,21);
+            }
+            body{
+                background-color:rgb(127,110,110);
+            }
+            th {
+                width:150px；
+            }
+  
+        </style>     
+               
+    </head>
+    <img src= "myBanner.jpg" width="1400" height="auto"> 
+    <table>
+    <thead>
+              <tr>
+                  <th><a href= "index.html"> <img id="home" src= "home.png"></th>
+                  <th><a href= "me.html"> <img id="aboutme" src= "aboutme.png"></th>
+                  <th><a href= "java.html"> <img id ="javascripts" src="javascripts.png"></th>
+                  <th><a href= "apps.html"> <img id="apps"  src ="apps.png"></th> 
+              </tr>
+    </thead>
+    </table>
+    </h1> This is my CSC 106 final project </h1>
+    
